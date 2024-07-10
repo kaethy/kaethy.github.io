@@ -25,13 +25,14 @@
   "work": [
     {
       "name": "University of Tübingen",
+      "location": "Tübingen, Germany",
       "position": "Teaching Assistant for Cognitive Architectures",
       "startDate": "2022-04-01",
       "endDate": "2022-07-31",
       "summary": "Held a weekly exercise session and updated exercise sheets and other material students can use to learn."
     },
     {
-      "organization": "Augustinum",
+      "name": "Augustinum",
       "location": "Munich, Germany",
       "position": "Voluntary Social Year",
       "url": "",
@@ -41,7 +42,7 @@
       "highlights": ""
     },
     {
-      "organization": "The Horse Place",
+      "name": "The Horse Place",
       "location": "Devon, UK",
       "position": "Working Student",
       "url": "",
@@ -88,9 +89,9 @@
   ],
   "awards": [
     {
-      "name": "Scholarship: Deutschlandstipendium",
-      "startDate": "2020-12-01",
-      "endDate": "2022-03-31"
+      "title": "Scholarship: Deutschlandstipendium",
+      "url": "https://www.deutschlandstipendium.de/deutschlandstipendium/de/services/english/the-deutschlandstipendium-best-of-both-worlds-for-students.html",
+      "summary": "Between December 2020 and March 2022 I had a public-private scholarship: 'The Deutschlandstipendium provides financial and non-material support to high-achieving and committed students.'"
     }
 
   ],
