@@ -7,9 +7,9 @@ subtitle:
 profile:
   align: right
   image: Me.jpeg
-  image_circular: True # crops the image to make it circular
+  image_circular: False # crops the image to make it circular
   more_info: >
-    <p>Stockholm, Sweden</p>
+    <p></p>
 
 news: False # includes a list of news items
 selected_papers: False # includes a list of papers marked as "selected={true}"
