@@ -22,6 +22,15 @@
       }
     ]
   },
+  "work": [
+    {
+      "name": "University of Tübingen",
+      "position": "Teaching Assistant for Cognitive Architectures",
+      "startDate": "2022-04-01",
+      "endDate": "2022-07-31",
+      "summary": "Held a weekly exercise session and updated exercise sheets and other material students can use to learn."
+    }
+  ],
   "gap years": [
     {
       "organization": "Augustinum",
@@ -60,8 +69,8 @@
       "institution": "Universitat Pompeu Fabra, Barcelona, Spain",
       "location": "Barcelona, Spain",
       "url": "https://www.upf.edu/en//",
-      "area": "Computer Engineering",
-      "studyType": "Erasmus exchange semester",
+      "area": "Cognitive Science",
+      "studyType": "Erasmus Semester",
       "startDate": "2021-09-01",
       "endDate": "2022-04-01",
       "score": "",
@@ -74,10 +83,18 @@
       "area": "Machine Learning",
       "studyType": "Master of Science",
       "startDate": "2023-08-01",
-      "endDate": "2025",
+      "endDate": "",
       "score": "",
       "courses": ""
     }
+  ],
+  "scholarship": [
+    {
+      "name": "Deutschlandstipendium",
+      "startDate": "2020-12-01",
+      "endDate": "2022-03-31"
+    }
+
   ],
   "skills": [
     {
@@ -147,6 +164,18 @@
       "icon": "fa-solid fa-music",
       "keywords": ""
     }
+    ,
+    {
+      "name": "Stories",
+      "icon": "fa-solid fa-book",
+      "keywords": ""
+    }
+    ,
+    {
+      "name": "Creative Projects",
+      "icon": "fa-solid fa-palette",
+      "keywords": ""
+    }
   ],
   "projects": [
     {
@@ -154,7 +183,7 @@
       "summary": "After my first year of studying I wrote a little program that would help me learn the conjugations of Spanish verbs in all possible tenses.",
       "highlights": "",
       "startDate": "2020",
-      "endDate": "",
+      "endDate": "2020",
       "url": "https://github.com/kaethy/Konjugationen"
     }
   ]
