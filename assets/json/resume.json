@@ -29,9 +29,7 @@
       "startDate": "2022-04-01",
       "endDate": "2022-07-31",
       "summary": "Held a weekly exercise session and updated exercise sheets and other material students can use to learn."
-    }
-  ],
-  "gap years": [
+    },
     {
       "organization": "Augustinum",
       "location": "Munich, Germany",
@@ -88,9 +86,9 @@
       "courses": ""
     }
   ],
-  "scholarship": [
+  "awards": [
     {
-      "name": "Deutschlandstipendium",
+      "name": "Scholarship: Deutschlandstipendium",
       "startDate": "2020-12-01",
       "endDate": "2022-03-31"
     }
