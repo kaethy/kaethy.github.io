@@ -16,8 +16,10 @@ selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi. 
-This is me. ✨ 😄
+Hi. <br>
+This is me. ✨ 😄 <br>
+<span style="color:blue">some *blue* text</span>
+
 I am still learning to embrace the idea that in the first half of my twenties, 
 I don't have to know **who** I am *and* _where_ I want to go. 
 
